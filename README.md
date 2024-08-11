@@ -1,5 +1,3 @@
-# SQL IN BASKET 
-
 # SQLInBucket
 
 Welcome to **SQLInBucket**, your ultimate resource for mastering SQL through hands-on projects using an e-commerce database. This repository provides a curated set of SQL exercises designed to enhance your SQL skills by working on real-world scenarios that simulate common tasks in an e-commerce environment. Whether you are a beginner or an intermediate learner, this repository will help you build a solid foundation in SQL.

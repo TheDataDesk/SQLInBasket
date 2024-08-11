@@ -182,6 +182,9 @@ SELECT * FROM reviews;
 SELECT * FROM payments; 
 SELECT * FROM stock; 
 SELECT * FROM addresses; 
+
+
+
 -- **BASIC SQL QUERIES** 
 
 -- 1. What are the names and prices of all products available in each category? 
@@ -313,10 +316,6 @@ ORDER BY
 
 -- 19. Which products have been ordered the most by customers from a specific city?
 
--- product details from products table -- productid, categoryid
--- max.ordered item from orderitem table -- product id, orderid, orderitemid 
--- orders -- orderid, cusCustomerIDtomerid
--- customer from city addresses table  -- addressid, customerid
 SELECT 
     p.productid,
     p.categoryid,
